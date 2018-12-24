@@ -6,5 +6,5 @@ transferlearning and finetune
 	python=3.6
 
 re文件夹是图片数据文件
-transfer_learning.ipynb 是迁移学习的代码，用jupyter notebook执行。
+
 
