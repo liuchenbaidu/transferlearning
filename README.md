@@ -7,4 +7,7 @@ transferlearning and finetune
 
 re文件夹是图片数据文件
 transfer_learning.ipynb 是迁移学习的代码，用jupyter notebook执行。
+	
+300.jpg是一个分为第三类的图片,该图片用于模型的测试。
+
 
